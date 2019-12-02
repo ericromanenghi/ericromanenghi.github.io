@@ -18,5 +18,5 @@ TODO:
 * Start adding content!
 * Add support for English, translate at least the main page (translate content itself will be way harder but I still have some hopes I will eventually do it)
 * Make website responsive
-   * Main issue seems to be the header
+   * ~~Main issue seems to be the header~~
 

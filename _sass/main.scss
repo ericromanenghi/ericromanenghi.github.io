@@ -23,16 +23,12 @@ main {
 
 @media (max-width: 500px) {
     .logo {
-        font-family: 'Dancing Script', cursive;
-        font-weight: bold;
         font-size: x-large !important;
     }
 }
 
 @media (max-width: 340px) {
     .logo {
-        font-family: 'Dancing Script', cursive;
-        font-weight: bold;
         font-size: large !important;
     }
 }
@@ -40,5 +36,5 @@ main {
 .category-tab {
     font-weight: bold;
     font-variant: all-small-caps;
-    font-size: x-large;
+    font-size: x-large !important;
 }

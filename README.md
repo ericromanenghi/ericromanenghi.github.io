@@ -15,7 +15,7 @@ TODO:
    * ~~Short "about me" section~~
 * ~~License content as creative commons~~
 * ~~Add pages for categories~~
-* Add Google Analytics support
+* ~~Add Google Analytics support~~
 * Start adding content!
 * Add support for English, translate at least the main page (translate content itself will be way harder but I still have some hopes I will eventually do it)
 * Make website responsive
